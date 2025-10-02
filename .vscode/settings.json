@@ -1,5 +1,7 @@
 {
     "files.associations": {
-        "notas.C": "cpp"
+        "notas.C": "cpp",
+        "nomeldade.C": "cpp",
+        "nomeidade.C": "cpp"
     }
 }
