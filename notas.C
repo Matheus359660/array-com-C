@@ -8,7 +8,7 @@ int main(){
     printf("DIgite 5 notas:\n");
 
     for (i=0; i < 5; i++){
-        scanf("%s", &notas[i]); //lê uma nota e armazena na posição i do array
+        scanf("%d",&notas[i]); //lê uma nota e armazena na posição i do array
     }
 
     //exibição 
