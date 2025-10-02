@@ -11,7 +11,15 @@ int main(){
     printf("Digite sua idade: ");
     scanf("%d",&idade);
 
-    printf("Olá %s, você tem %d anos!\n", nome, idade);
+printf("Olá %s, você tem %d anos!\n", nome, idade);
 
-    return 0;
+if(idade <=15){
+        printf("Ainda está novo.");
+}
+else{
+printf("Bora trabalhar né.\n");
+}
+
+return 0;
+
 }
