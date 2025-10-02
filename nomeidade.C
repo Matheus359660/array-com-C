@@ -14,7 +14,7 @@ int main(){
 printf("Olá %s, você tem %d anos!\n", nome, idade);
 
 if(idade <=15){
-        printf("Ainda está novo.");
+        printf("Ainda está novo.\n");
 }
 else{
 printf("Bora trabalhar né.\n");
