@@ -9,7 +9,7 @@ int main(){
     printf("Digite o nome do produto: ");
     scanf("%s",produto);
 
-    printf("Digite o preco unitario: ");
+    printf("Digite o preco unitário: ");
     scanf("%s",&preco);
     
     printf("Digite a quantidade: ");
@@ -18,7 +18,7 @@ int main(){
     total = preco * quantidade;
 
     printf("produto: %s/n",produto);
-    printf("preço unitario: %.2f\n",preco);
+    printf("preço unitário: %.2f\n",preco);
     printf("Quantidade : %d\n",quantidade);
     printf("Total da compra: %.2f\n",total);
     return 0;
