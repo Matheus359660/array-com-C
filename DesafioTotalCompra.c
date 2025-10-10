@@ -10,7 +10,7 @@ int main(){
     scanf("%s",produto);
 
     printf("Digite o preco unitário: ");
-    scanf("%s",&preco);
+    scanf("%f",&preco);
     
     printf("Digite a quantidade: ");
     scanf("%d",&quantidade);
