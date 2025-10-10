@@ -19,7 +19,7 @@ int main(){
 
     printf("produto: %s/n",produto);
     printf("preço unitario: %.2f\n",quantidade);
-    printf("Quantidade : %d\n", quantidade);
+    printf("Quantidade : %d\n",quantidade);
     printf("Total da compra: %.2f\n",total);
     return 0;
 }
